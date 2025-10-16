@@ -1,19 +1,6 @@
 # Fake News Detection
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Objective](#objective)
-- [Dataset](#dataset)
-- [Preprocessing](#preprocessing)
-- [Feature Extraction](#feature-extraction)
-- [Machine Learning Models](#machine-learning-models)
-- [Evaluation Metrics](#evaluation-metrics)
-- [Results](#results)
-- [Conclusion](#conclusion)
-- [Future Work](#future-work)
-- [References](#references)
 
----
 
 ## Introduction
 Fake news has become a critical issue in the digital age, spreading misinformation across social media and news platforms.  
